@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material Template</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_your_name">Name</string>
+    <string name="label_your_email">Email</string>
+    <string name="hint_your_name">e.g. Larry</string>
+    <string name="hint_your_email">Optional</string>
+    <string name="menu_item_one">Menu Item</string>
+</resources>
