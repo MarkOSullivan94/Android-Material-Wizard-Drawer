@@ -2,4 +2,4 @@
 An Android template with a Material wizard and a Material navigation drawer.
 
 
-![Material Navigation GIF](https://i.imgur.com/0KrBzQz.gif)
+![Material Navigation GIF](http://i.imgur.com/D9e6Qbw.gif)
